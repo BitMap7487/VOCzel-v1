@@ -33,6 +33,7 @@ Make a .cs file in the Commands directory.\
 After making that, Restart Voczel or ask Voczel to "Reload Commands"
 
 ### Example
+Close all Chrome processes:
 ```cs
 using System;
 using System.Diagnostics;
